@@ -52,7 +52,7 @@ TH_TOUR เป็นระบบเว็บไซต์สำหรับจอ
 - Booking (การจอง)
 - BookingTraveler (ผู้เดินทาง)
 - Tour (ทัวร์)
-- Schedule (รอบเดินทาง)
+- Tour_Schedule (รอบเดินทาง)
 - RoomType (ห้องพัก)
 - Accommodation (ที่พัก)
 - Vehicle (ยานพาหนะ)
